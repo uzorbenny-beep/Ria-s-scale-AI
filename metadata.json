@@ -1,0 +1,6 @@
+{
+  "name": "Ria'S Scale AI",
+  "description": "AI-powered business growth operating system for service professionals and agencies. Generate leads, outreach campaigns, contents, proposals, and track prospects with an intelligent CRM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
